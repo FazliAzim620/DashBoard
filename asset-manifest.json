@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DashBoard/static/css/main.8e310f46.chunk.css",
+    "main.js": "/DashBoard/static/js/main.4fc70d05.chunk.js",
+    "main.js.map": "/DashBoard/static/js/main.4fc70d05.chunk.js.map",
+    "runtime-main.js": "/DashBoard/static/js/runtime-main.49e4afe6.js",
+    "runtime-main.js.map": "/DashBoard/static/js/runtime-main.49e4afe6.js.map",
+    "static/js/2.adf75830.chunk.js": "/DashBoard/static/js/2.adf75830.chunk.js",
+    "static/js/2.adf75830.chunk.js.map": "/DashBoard/static/js/2.adf75830.chunk.js.map",
+    "index.html": "/DashBoard/index.html",
+    "static/css/main.8e310f46.chunk.css.map": "/DashBoard/static/css/main.8e310f46.chunk.css.map",
+    "static/js/2.adf75830.chunk.js.LICENSE.txt": "/DashBoard/static/js/2.adf75830.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49e4afe6.js",
+    "static/js/2.adf75830.chunk.js",
+    "static/css/main.8e310f46.chunk.css",
+    "static/js/main.4fc70d05.chunk.js"
+  ]
+}
