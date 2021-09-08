@@ -1,0 +1,144 @@
+.user {
+  flex: 4;
+  padding: 5px 20px;
+}
+.Link{
+  color: #555;
+  text-decoration: none;
+}
+.userTitleContienr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.userAdd {
+  width: 80px;
+  padding: 5px;
+  cursor: pointer;
+  color: #fff;
+  background-color: teal;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.userContainer {
+  display: flex;
+  margin-top: 10px;
+}
+.userShow {
+  box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.7);
+  flex: 1;
+  padding: 20px;
+}
+.userShowTop {
+  display: flex;
+  align-items: center;
+}
+.userImg {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.userShowTopTitle {
+  display: flex;
+  flex-direction: column;
+}
+.userName {
+  font-weight: 600;
+}
+.usertitle {
+  font-weight: 300;
+}
+.userShowBottom {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.userShowTitle {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(204, 193, 193);
+}
+.userShowInfo {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  color: #444;
+  font-size: 16px;
+}
+.userShowIcon {
+  font-size: 18px !important;
+}
+.userShowInfoTitle {
+  font-size: 16px;
+  margin-left: 10px;
+}
+.userUpdate {
+  box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 0px 15px -6px rgba(0, 0, 0, 0.7);
+  flex: 2;
+  margin-left: 12px;
+  padding: 20px;
+}
+.userUpdateTitle{
+    font-size: 23px;
+
+}
+.userUpdateform{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.userUpdateItem{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+
+}
+.userUpdateItem>label{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+.userUpdatePic{
+    width: 100px;
+height: 100px;
+border-radius: 10px;
+object-fit: cover;} 
+.userUpdateInput{
+    border: none;
+    border-bottom: 1px solid gray;
+    height: 30px;
+    width: 250px;
+
+}
+.userUpdateInput:focus{
+    outline: none;
+}
+.userUpdateRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.userUpdateIcon{
+    cursor: pointer;
+    margin-left: 5px;
+    color: gray;
+}
+.userUpdateUpload{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.userUpdateButton{
+    border:none;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: teal;
+    color: #fff ;
+}
